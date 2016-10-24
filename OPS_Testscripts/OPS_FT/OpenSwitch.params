@@ -1,0 +1,9 @@
+<TestCase>
+	<Device>
+        	<device1>FAB05</device1>
+		<device2>CSW01</device2>
+        	<device3>ASW01</device3>
+        	<device4>CSW02</device4>
+        	<device5>FAB06</device5>
+	</Device>
+</TestCase>
